@@ -5,8 +5,8 @@ Plugin resmi-style untuk menerima pembayaran di WooCommerce menggunakan BDPay.
 Contributors: Wiriasto @2026
 Tags: payment, gateway, indonesia, qris, virtual account, dana, ovo, bdpay
 Requires at least: 5.8
-Tested up to: 6.6
-Stable tag: 1.0.0
+Tested up to: 7.0
+Stable tag: 1.0
 License: GPLv2 or later
 
 Payment Gateway Indonesia untuk Virtual Account, QRIS, DANA, OVO via BDPay Open API.
