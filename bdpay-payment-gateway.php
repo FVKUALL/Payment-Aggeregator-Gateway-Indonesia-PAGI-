@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Payment Aggregator & Gateway Indonesia (PAGI)
- * Plugin URI:  https://bdpay.co.id
+ * Plugin URI:  https://github.com/FVKUALL/Payment-Aggeregator-Gateway-Indonesia-PAGI-
  * Description: Payment Aggregator & Gateway Indonesia (PAGI) — Virtual Account, QRIS, e-Wallet (DANA/OVO) via BDPay Open API.
  * Version:     1.0
  * Author:      Wiriasto
- * Author URI:  https://bdpay.co.id
+ * Author URI:  https://github.com/FVKUALL
  * License:     GPL-2.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: pagi-gateway
