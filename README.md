@@ -36,7 +36,7 @@ Fitur:
 
 == Configuration ==
 
-Daftar merchant di https://bdpay.co.id
+Daftar merchant di https://dev-admin.bdpay.co.id
 Minta akses Sandbox + dokumentasi signature yang akurat.
 Sesuaikan fungsi generate_signature() di class-bdpay-api.php sesuai dokumentasi resmi.
 
